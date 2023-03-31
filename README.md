@@ -35,13 +35,9 @@
 Aplicativo que abre a camera do celular, pocibilitando tirar uma foto, e caso essa foto seja tirada, ele mostra a localização em coordenadas de onde você esta quando tirou a foto.
 
 ## Funcionalidades ⚙️
-✔️ Funcionalidade 1
+✔️ Tirar fotos
 
-✔️ Funcionalidade 2
-
-✔️ Funcionalidade 3
-
-✔️ Funcionalidade 4
+✔️ Pegar a localização do celular quando no momento da foto
 
 ## Distribuição
 https://github.com/edumartimi/MyApplication
